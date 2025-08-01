@@ -22,4 +22,21 @@ You can use this template to quickly create a personal website showcasing your s
 
 ```bash
 git clone https://github.com/Gojus1/Portfolio_site_template.git
+```
+2. **Open index.html in your browser to preview.**
 
+3. **Customize content:**
+
+Replace "Your Name" and intro text in index.html
+
+Update Skills, Experience, and Projects with your own data
+
+Replace placeholder images in assets-all/assets/
+
+4. **Deploy with GitHub Pages:**
+
+Go to your repo Settings → Pages
+
+Set branch to main and folder to / (root)
+
+Your site will be live at https://Gojus1.github.io/Portfolio-site-template
