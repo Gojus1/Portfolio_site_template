@@ -3,6 +3,8 @@
 A simple and customizable **portfolio template** built using **HTML, CSS, and JavaScript**.  
 You can use this template to quickly create a personal website showcasing your skills, experience, and projects.
 
+![Portfolio Template Preview](Screenshot 2025-08-01 165136.png)
+
 ---
 
 ## Features
