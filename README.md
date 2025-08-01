@@ -21,5 +21,5 @@ You can use this template to quickly create a personal website showcasing your s
 1. **Clone or download this repository**
 
 ```bash
-git clone https://github.com/yourusername/portfolio-template.git
+git clone https://github.com/Gojus1/Portfolio_site_template.git
 
