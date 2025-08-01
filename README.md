@@ -27,16 +27,16 @@ git clone https://github.com/Gojus1/Portfolio_site_template.git
 
 3. **Customize content:**
 
-Replace "Your Name" and intro text in index.html
+    Replace "Your Name" and intro text in index.html
 
-Update Skills, Experience, and Projects with your own data
+    Update Skills, Experience, and Projects with your own data
 
-Replace placeholder images in assets-all/assets/
+    Replace placeholder images in assets-all/assets/
 
 4. **Deploy with GitHub Pages:**
 
-Go to your repo Settings → Pages
+    Go to your repo Settings → Pages
 
-Set branch to main and folder to / (root)
+    Set branch to main and folder to / (root)
 
-Your site will be live at https://Gojus1.github.io/Portfolio-site-template
+    Your site will be live at https://Gojus1.github.io/Portfolio-site-template
