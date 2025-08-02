@@ -11,7 +11,7 @@ You can use this template to quickly create a personal website showcasing your s
 
 - **Intro Section** with name, short description, and social links  
 - **Skills Section** with icon-based skill buttons  
-- **Experience Section** to list job or project experience  
+- **Experience Section** to list job or project experience 
 - **Projects Section** with image, title, and description  
 - **Hover Effects** for interactive cards and buttons  
 - **Responsive Layout** (works on desktop and mobile)
