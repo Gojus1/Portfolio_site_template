@@ -27,13 +27,7 @@ git clone https://github.com/Gojus1/Portfolio_site_template.git
 ```
 2. **Open index.html in your browser to preview.**
 
-3. **Customize content:**
-
-   - Replace "Your Name" and intro text in index.html
-
-   - Update Skills, Experience, and Projects with your own data
-
-   - Replace placeholder images in assets-all/assets/
+3. **Customize content**
 
 4. **Deploy with GitHub Pages:**
 
