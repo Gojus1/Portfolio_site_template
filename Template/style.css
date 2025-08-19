@@ -5,6 +5,39 @@
   box-sizing: border-box;
 }
 
+#navbar {
+    height: 60px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    background-color: #33333300;
+    color: white;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+#nav-links {
+    right: 20px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#navbar a:hover {
+    text-decoration: underline;
+}
+
+
 body {
   background-image: url(assets-all/assets/background.png);
   font-family: "Roboto Condensed", sans-serif;
