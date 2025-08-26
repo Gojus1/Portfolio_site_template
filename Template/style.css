@@ -39,7 +39,9 @@
 
 
 body {
-  background-image: url(assets-all/assets/background.png);
+  background-image: url(assets-all/assets/img1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: "Roboto Condensed", sans-serif;
   background-color: #f4f4f4;
   display: flex;
