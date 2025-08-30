@@ -11,3 +11,4 @@ document.querySelectorAll('.skill-btn').forEach(skill => {
     console.log(`Hovered skill: ${skill.textContent}`);
   });
 });
+
