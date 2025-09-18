@@ -12,3 +12,4 @@ document.querySelectorAll('.skill-btn').forEach(skill => {
   });
 });
 
+
